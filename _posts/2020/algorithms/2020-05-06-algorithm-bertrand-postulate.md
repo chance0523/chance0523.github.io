@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Implement Silver2
 meta_keywords: 알고리즘,백준,파이썬,4948번
 date: 2020-05-06 23:30:00 -0400
+last_modified_at: 2020-05-06T23:30:00+08:00
 ---
 
 # 4948번. 베르트랑 공준

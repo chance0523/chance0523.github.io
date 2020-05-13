@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,14645번
 date: 2020-05-12 21:02:00 -0400
+last_modified_at: 2020-05-12T21:02:00+08:00
 ---
 
 # 14645번. 와이버스 부릉부릉

@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Implement String Bronze1
 meta_keywords: 알고리즘,백준,파이썬,1157번
 date: 2020-05-12 21:20:00 -0400
+last_modified_at: 2020-05-12T21:20:00+08:00
 ---
 
 # 1157번. 단어 공부

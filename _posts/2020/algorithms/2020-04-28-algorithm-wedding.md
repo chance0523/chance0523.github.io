@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Graph Silver1
 meta_keywords: 알고리즘,백준,파이썬,5567번
 date: 2020-04-28 18:45:00 -0400
+last_modified_at: 2020-04-28T18:45:00+08:00
 ---
 
 # 5567번. 결혼식

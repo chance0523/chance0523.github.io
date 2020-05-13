@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,10699번
 date: 2020-05-12 20:18:00 -0400
+last_modified_at: 2020-05-12T20:18:00+08:00
 ---
 
 # 10699번. 오늘 날짜

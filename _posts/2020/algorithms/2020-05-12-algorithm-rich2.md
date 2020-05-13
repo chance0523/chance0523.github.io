@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,1271번
 date: 2020-05-12 12:14:00 -0400
+last_modified_at: 2020-05-12T12:14:00+08:00
 ---
 
 # 1271번. 엄청난 부자2

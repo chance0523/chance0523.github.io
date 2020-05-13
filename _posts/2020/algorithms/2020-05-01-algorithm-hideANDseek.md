@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Graph Silver1
 meta_keywords: 알고리즘,백준,파이썬,6118번
 date: 2020-05-01 18:20:00 -0400
+last_modified_at: 2020-05-01T18:20:00+08:00
 ---
 
 # 6118번. 숨바꼭질

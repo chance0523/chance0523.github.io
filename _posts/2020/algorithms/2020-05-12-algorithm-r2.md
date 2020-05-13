@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,3046번
 date: 2020-05-12 12:51:00 -0400
+last_modified_at: 2020-05-12T12:51:18+08:00
 ---
 
 # 3046번. R2

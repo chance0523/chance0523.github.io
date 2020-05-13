@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Graph Gold3
 meta_keywords: 알고리즘,백준,파이썬,1507번
 date: 2020-04-30 20:10:00 -0400
+last_modified_at: 2020-04-30T20:10:00+08:00
 ---
 
 # 1507번. 궁금한 민호

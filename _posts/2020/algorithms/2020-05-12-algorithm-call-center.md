@@ -9,6 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,5339번
 date: 2020-05-12 13:00:00 -0400
+last_modified_at: 2020-05-12T13:00:00+08:00
 ---
 
 # 5339번. 콜센터
