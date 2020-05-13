@@ -9,7 +9,7 @@ related: true
 categories: Algorithm BOJ Bronze5
 meta_keywords: 알고리즘,백준,파이썬,3003번
 date: 2020-05-12 12:48:00 -0400
-last_modified_at: 2020-05-13T02:08:18+08:00
+last_modified_at: 2020-05-12T12:48:00+08:00
 ---
 
 # 3003번. 킹, 퀸, 룩, 비숍, 나이트, 폰
