@@ -2,7 +2,7 @@
 title: "[Python] BOJ 1259번. 팰린드롬수"
 layout: single
 author_profile: true
-read_time: true
+read_time: false
 comments: true
 share: true
 related: true
