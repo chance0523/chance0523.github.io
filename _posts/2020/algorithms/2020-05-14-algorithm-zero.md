@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T22:58:39+08:00
 # 10773번. 제로
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/10773>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 10773번. 제로k = int(input())
+# 10773번. 제로
+
+k = int(input())
 stack = []
 for i in range(k):
     num = int(input())

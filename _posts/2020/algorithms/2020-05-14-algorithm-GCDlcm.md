@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T01:57:57+08:00
 # 2609번. 최대공약수와 최소공배수
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/2609>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 2609번. 최대공약수와 최소공배수a, b = map(int, input().split())
+# 2609번. 최대공약수와 최소공배수
+
+a, b = map(int, input().split())
 gcd = 0
 lcm = 0
 

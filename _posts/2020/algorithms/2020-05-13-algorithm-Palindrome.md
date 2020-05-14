@@ -22,6 +22,7 @@ last_modified_at: 2020-05-13T13:43:11+08:00
 
 ```python
 # 1259번. 팰린드롬수
+
 def p(n):
     if n[0] != n[-1]:
         return 'no'

@@ -8,8 +8,8 @@ share: true
 related: true
 categories: Algorithm BOJ Implement Silver2
 meta_keywords: 알고리즘,백준,파이썬,1929번
-date: 2020-05-15 01:53:03 -0400
-last_modified_at: 2020-05-15T01:53:03+08:00
+date: 2020-05-15 01:59:56 -0400
+last_modified_at: 2020-05-15T01:59:56+08:00
 ---
 
 # 1929번. 소수 구하기
@@ -20,7 +20,9 @@ last_modified_at: 2020-05-15T01:53:03+08:00
 ### 풀이 코드
 
 ```python
-# 1929번. 소수 구하기import sys
+# 1929번. 소수 구하기
+
+import sys
 input = sys.stdin.readline
 
 m, n = map(int, input().split())

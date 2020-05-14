@@ -21,7 +21,9 @@ last_modified_at: 2020-05-14T16:34:00+08:00
 ### 풀이 코드
 
 ```python
-# 2108번. 통계학from collections import Counter
+# 2108번. 통계학
+
+from collections import Counter
 # 그나마 sys 써야 시간 초과 안남...
 import sys
 input = sys.stdin.readline

@@ -15,12 +15,15 @@ last_modified_at: 2020-05-15T00:38:03+08:00
 # 1966번. 프린터 큐
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1966>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1966번. 프린터 큐import sys
+# 1966번. 프린터 큐
+
+import sys
 input = sys.stdin.readline
 
 T = int(input())

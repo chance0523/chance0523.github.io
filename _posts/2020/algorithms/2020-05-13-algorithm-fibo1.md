@@ -21,7 +21,9 @@ last_modified_at: 2020-05-13T02:08:18+08:00
 ### 풀이 코드
 
 ```python
-# 2748번. 피보나치 수 2n = int(input())
+# 2748번. 피보나치 수
+
+2n = int(input())
 
 fibo = [0 for i in range(n+1)]
 fibo[0] = 0

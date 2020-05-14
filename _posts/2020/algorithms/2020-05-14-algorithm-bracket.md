@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T02:43:23+08:00
 # 9012번. 괄호
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/9012>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 9012번. 괄호t = int(input())
+# 9012번. 괄호
+
+t = int(input())
 
 
 def isVPS(sList):

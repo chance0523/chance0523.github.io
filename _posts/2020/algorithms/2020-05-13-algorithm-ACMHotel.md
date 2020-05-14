@@ -22,6 +22,7 @@ last_modified_at: 2020-05-13T13:26:25+08:00
 
 ```python
 # 10250번. ACM 호텔
+
 def hotel(h, w, n):
     y = n % h
     x = (n // h)+1

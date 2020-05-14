@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T12:29:07+08:00
 # 10828번. 스택
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/10828>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 10828번. 스택# 시간초과 방지용 readline
+# 10828번. 스택
+
+# 시간초과 방지용 readline
 import sys
 
 input = sys.stdin.readline

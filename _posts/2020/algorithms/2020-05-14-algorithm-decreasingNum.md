@@ -15,12 +15,14 @@ last_modified_at: 2020-05-14T01:04:43+08:00
 # 1038번. 감소하는 수
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1038>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
 # 1038번. 감소하는 수
+
 dList = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 a = 10
 for d in dList:

@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T02:07:17+08:00
 # 10814번. 나이순 정렬
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/10814>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 10814번. 나이순 정렬n = int(input())
+# 10814번. 나이순 정렬
+
+n = int(input())
 userList = []
 for i in range(n):
     age, name = input().split()

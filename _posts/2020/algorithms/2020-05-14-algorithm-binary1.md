@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T01:20:10+08:00
 # 11050번. 이항 계수 1
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/11050>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 11050번. 이항 계수 1n, k = map(int, input().split())
+# 11050번. 이항 계수
+
+1n, k = map(int, input().split())
 if k == 0:
     print(1)
 else:

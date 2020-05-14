@@ -15,12 +15,15 @@ last_modified_at: 2020-05-15T01:05:18+08:00
 # 2805번. 나무 자르기
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/2805>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 2805번. 나무 자르기# pypy로 해야 시간초과 없이 성공
+# 2805번. 나무 자르기
+
+# pypy로 해야 시간초과 없이 성공
 
 import sys
 input = sys.stdin.readline

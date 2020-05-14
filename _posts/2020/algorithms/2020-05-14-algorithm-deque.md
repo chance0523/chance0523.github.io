@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T12:37:07+08:00
 # 10866번. 덱
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/10866>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 10866번. 덱# 시간초과 방지용 readline
+# 10866번. 덱
+
+# 시간초과 방지용 readline
 from collections import deque
 import sys
 input = sys.stdin.readline

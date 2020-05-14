@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T01:47:49+08:00
 # 1920번. 수 찾기
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1920>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1920번. 수 찾기n = int(input())
+# 1920번. 수 찾기
+
+n = int(input())
 nList = list(map(int, input().split()))
 m = int(input())
 mList = list(map(int, input().split()))

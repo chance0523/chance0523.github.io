@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T15:27:32+08:00
 # 2775번. 부녀회장이 될테야
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/2775>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 2775번. 부녀회장이 될테야t = int(input())
+# 2775번. 부녀회장이 될테야
+
+t = int(input())
 
 apart = [[0 for _ in range(14)] for _ in range(15)]
 apart[0] = [i for i in range(1, 15)]

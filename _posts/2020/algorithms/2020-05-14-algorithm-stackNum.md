@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T23:57:51+08:00
 # 1874번. 스택 수열
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1874>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1874번. 스택 수열import sys
+# 1874번. 스택 수열
+
+import sys
 input = sys.stdin.readline
 
 n = int(input())

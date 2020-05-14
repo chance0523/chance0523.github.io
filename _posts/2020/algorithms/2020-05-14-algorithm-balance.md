@@ -15,12 +15,14 @@ last_modified_at: 2020-05-14T17:23:23+08:00
 # 4949번. 균형잡힌 세상
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/4949>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
 # 4949번. 균형잡힌 세상
+
 import sys
 input = sys.stdin.readline
 

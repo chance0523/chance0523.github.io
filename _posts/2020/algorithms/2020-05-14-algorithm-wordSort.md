@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T01:35:05+08:00
 # 1181번. 단어 정렬
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1181>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1181번. 단어 정렬n = int(input())
+# 1181번. 단어 정렬
+
+n = int(input())
 wList = []
 for i in range(n):
     wList.append(input())

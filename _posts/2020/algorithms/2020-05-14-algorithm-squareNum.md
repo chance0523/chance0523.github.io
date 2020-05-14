@@ -21,7 +21,9 @@ last_modified_at: 2020-05-14T00:17:08+08:00
 ### 풀이 코드
 
 ```python
-# 1025번. 제곱수 찾기import math
+# 1025번. 제곱수 찾기
+
+import math
 
 N, M = map(int, input().split())
 box = [[0 for _ in range(M)] for _ in range(N)]

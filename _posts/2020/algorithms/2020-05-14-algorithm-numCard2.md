@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T12:13:03+08:00
 # 10816번. 숫자 카드 2
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/10816>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 10816번. 숫자 카드 2_ = int(input())
+# 10816번. 숫자 카드
+
+2_ = int(input())
 nList = sorted(map(int, input().split()))
 _ = int(input())
 mList = list(map(int, input().split()))

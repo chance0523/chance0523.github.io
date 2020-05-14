@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T02:31:33+08:00
 # 1978번. 소수 찾기
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1978>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1978번. 소수 찾기n = int(input())
+# 1978번. 소수 찾기
+
+n = int(input())
 nList = list(map(int, input().split()))
 
 m = 1000

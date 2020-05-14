@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T16:04:31+08:00
 # 11651번. 좌표 정렬하기 2
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/11651>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 11651번. 좌표 정렬하기 2n = int(input())
+# 11651번. 좌표 정렬하기
+
+2n = int(input())
 nList = []
 for i in range(n):
     x, y = map(int, input().split())

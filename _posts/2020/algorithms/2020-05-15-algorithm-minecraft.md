@@ -15,12 +15,15 @@ last_modified_at: 2020-05-15T01:39:18+08:00
 # 18111번. 마인크래프트
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/18111>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 18111번. 마인크래프트# pypy로 해야 시간 초과 안 남
+# 18111번. 마인크래프트
+
+# pypy로 해야 시간 초과 안 남
 import sys
 input = sys.stdin.readline
 

@@ -15,12 +15,15 @@ last_modified_at: 2020-05-14T23:26:18+08:00
 # 1654번. 랜선 자르기
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1654>{: target="\_blank"}
 
 ### 풀이 코드
 
 ```python
-# 1654번. 랜선 자르기import sys
+# 1654번. 랜선 자르기
+
+import sys
 input = sys.stdin.readline
 
 k, n = map(int, input().split())
