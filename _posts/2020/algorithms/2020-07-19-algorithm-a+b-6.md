@@ -25,6 +25,6 @@ last_modified_at: 2020-07-19T22:28:04+08:00
 
 for _ in range(int(input())):
     a,b=map(int,input().split(','))
-    print(a+b)```
-
+    print(a+b)
+```
 ### 비고
