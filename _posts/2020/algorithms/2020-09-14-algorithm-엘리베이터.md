@@ -15,6 +15,7 @@ last_modified_at: 2020-09-14T00:35:30+08:00
 # 1089번. 엘리베이터
 
 ### 문제 링크
+
 - <https://www.acmicpc.net/problem/1089>{: target="\_blank"}
 
 ### 풀이 코드
@@ -82,6 +83,7 @@ if flag:
         ans += c[i]/len(temp[i])
     print(ans)
 else:
-    print(-1)```
+    print(-1)
+```
 
 ### 비고
