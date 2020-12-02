@@ -99,9 +99,9 @@ analytics:
 
 # Site Author
 author:
-    name: '서정준, sᴇᴏ ᴊᴇᴏɴɢ ᴊᴏᴏɴ'
+    name: '서정준, Seo Jeong Joon'
     avatar: # "/assets/images/profile/poto.jpg" # 프로필 이미지
-    bio: 'Algorithm... aigo / POOR HALF-STACK DEVELOPER'
+    bio: 'Algorithm... aigo\nPOOR HALF-STACK DEVELOPER'
     location: 'Republic of Korea'
     email: 'samuel95@naver.com'
     links:
