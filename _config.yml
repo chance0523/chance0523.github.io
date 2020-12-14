@@ -8,7 +8,7 @@ title: '찬스' # Meta 태그에 들어가는 영역 , masthead_title등이 없�
 title_separator: '&#124;' # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
 subtitle: 'Version 1.0' # 타이틀 아래에 나올 작은 글씨
 name: '서정준 Seo Jeong Joon' # 맨 하단 이름 찍히는 영역
-description: '알고리즘, 데이터 사이언스, 머신러닝' # Meta 태그에 들어가는 영역
+description: '알고리즘, 웹, 데이터 사이언스, 머신러닝' # Meta 태그에 들어가는 영역
 url: '' # GitBlog 호스트 주소
 baseurl: # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository: 'samuel950523/samuel950523.github.com' # GitHub username/repo-name
@@ -22,7 +22,7 @@ words_per_minute: 200 # 해당 포스트 읽는데 걸리는 시간을 계산하
 comments:
     provider: 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
     disqus:
-        shortname: #samuel950523 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+        shortname: 'chance' #samuel950523 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     discourse:
         server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
     facebook:
@@ -94,7 +94,7 @@ social:
 analytics:
     provider: false # false (default), "google", "google-universal", "custom"
     google:
-        tracking_id:
+        tracking_id: 'G-X27LQFZNRT'
         anonymize_ip: # true, false (default)
 
 # Site Author
@@ -119,7 +119,7 @@ author:
           url: 'https://github.com/samuel950523'
         - label: 'Instagram'
           icon: 'fab fa-fw fa-instagram'
-          url: 'https://instagram.com/sir_j_j'
+          url: 'https://instagram.com/sir_j_j_'
 
 # Site Footer
 footer:
@@ -144,7 +144,7 @@ footer:
           # url:
         - label: 'Instagram'
           icon: 'fab fa-fw fa-instagram'
-          url: 'https://instagram.com/sir_j_j'
+          url: 'https://instagram.com/sir_j_j_'
 
 # Reading Files
 include:
