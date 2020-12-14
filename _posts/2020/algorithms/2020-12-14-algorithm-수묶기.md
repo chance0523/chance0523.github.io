@@ -1,6 +1,6 @@
 ---
-title: "[Python] BOJ 1744번. 수 묶기"
-layout: single
+title: '[Python] BOJ 1744번. 수 묶기'
+layout: post
 author_profile: true
 read_time: true
 comments: true
@@ -15,7 +15,8 @@ last_modified_at: 2020-12-14T18:25:33+08:00
 # 1744번. 수 묶기
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/1744>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/1744>{: target="\_blank"}
 
 ### 풀이 코드
 
