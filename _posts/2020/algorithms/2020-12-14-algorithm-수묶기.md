@@ -1,6 +1,6 @@
 ---
 title: '[Python] BOJ 1744번. 수 묶기'
-layout: post
+layout: single
 author_profile: true
 read_time: true
 comments: true
