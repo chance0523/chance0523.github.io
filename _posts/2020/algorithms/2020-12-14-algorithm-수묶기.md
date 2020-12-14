@@ -12,7 +12,9 @@ date: 2020-12-14 18:25:33 -0400
 last_modified_at: 2020-12-14T18:25:33+08:00
 ---
 
-# 1744번. 수 묶기2
+![HitCount](http://hits.dwyl.com/samuel950523.github.io/2020-12-14-algorithm-수묶기.html.svg)
+
+# 1744번. 수 묶기
 
 ### 문제 링크
 
