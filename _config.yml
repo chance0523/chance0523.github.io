@@ -101,7 +101,7 @@ analytics:
 author:
     name: '서정준, Seo Jeong Joon'
     avatar: # "/assets/images/profile/poto.jpg" # 프로필 이미지
-    bio: 'POOR HALF-STACK DEVELOPER / NHN godo:'
+    bio: 'NHN godo:<br> POOR HALF-STACK DEVELOPER'
     location: 'Republic of South Korea'
     email: 'samuel95@naver.com'
     links:
