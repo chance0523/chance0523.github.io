@@ -150,7 +150,6 @@ footer:
 include:
     - .htaccess
     - _pages
-    - _static
 exclude:
     - '*.sublime-project'
     - '*.sublime-workspace'
