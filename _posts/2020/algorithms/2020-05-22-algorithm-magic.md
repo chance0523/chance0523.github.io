@@ -1,0 +1,43 @@
+---
+title: "[Python] BOJ 18096번. Арифметическая магия (산술 마법)"
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+categories: Algorithm BOJ Implement Bronze
+meta_keywords: 알고리즘,백준,파이썬,18096번
+date: 2020-05-22 02:53:37 -0400
+last_modified_at: 2020-05-22T02:53:37+08:00
+---
+
+# 18096번. Арифметическая магия (산술 마법)
+
+### 문제 링크
+- <https://www.acmicpc.net/problem/18096>{: target="\_blank"}
+
+### 풀이 코드
+
+```python
+# 18096번. Арифметическая магия (산술 마법)
+
+
+'''
+David Blaine은 시청자에게 두 개의 숫자를 생각해 보라고 요청했습니다.
+그런 다음 각각 하나의 숫자로 구성된 두 개의 숫자를 곱하여 결과에서
+다른 숫자를 빼고 결과를 n 제곱으로 올리도록 요청했습니다.
+
+그 후 David는 조심스럽게 시청자의 얼굴을 들여다보고 결과의 이름을 올바르게 지정했습니다.
+당신의 임무는 다윗의 초점을 반복하는 것입니다.
+주어진 경우 뷰어의 결과 숫자를 추측하십시오.
+'''
+# (x+1)(y+1)-xy-x-y=1
+
+n = int(input())
+print(1)
+
+# 그냥 1을 출력하면 맞는다...
+```
+
+### 비고
