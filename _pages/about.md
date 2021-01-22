@@ -12,6 +12,6 @@ author_profile: true
 🏢 . Company : NHN godo:
 
 🔻
-POOR HAFL STACK DEVELOPER.
+POOR HAFL STACK DEVELOPER.<br>
 LOVE ALGORITHMS PROBLEM SOLVING
 🔺
