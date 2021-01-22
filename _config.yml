@@ -25,8 +25,8 @@ url: 'https://samuel950523.github.io' # the base hostname & protocol for your si
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'samuel950523/samuel950523.github.com' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: #"/assets/images/hlogo.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: '/assets/images/hlogo.png' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: 찬스의 Blog# overrides the website title displayed in the masthead, use " " for no title
+logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: 찬스의 Blog # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
