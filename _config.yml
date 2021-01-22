@@ -18,7 +18,7 @@ minimal_mistakes_skin: 'contrast' # "air", "aqua", "contrast", "dark", "dirt", "
 locale: 'en-US'
 title: '찬스'
 title_separator: '-'
-subtitle: # site tagline that appears below site title in masthead
+subtitle: 'Version 2.0' # 타이틀 아래에 나올 작은 글씨
 name: '서정준 Seo Jeong Joon'
 description: '알고리즘, 웹, 데이터 사이언스, 머신러닝'
 url: 'https://samuel950523.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -26,7 +26,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 repository: 'samuel950523/samuel950523.github.com' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: #"/assets/images/hlogo.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: '' # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: '찬스의 Blog' # 홈페이지 최 상탄에 들어갈 타이틀
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
