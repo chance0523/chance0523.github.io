@@ -1,13 +1,14 @@
 ---
-title: "[Python] BOJ 1507번. 궁금한 민호"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1507번. 궁금한 민호'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Graph Gold3
-meta_keywords: 알고리즘,백준,파이썬,1507번
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 그래프, Gold3]
+toc: true
+toc_sticky: true
 date: 2020-04-30 20:10:00 -0400
 last_modified_at: 2020-04-30T20:10:00+08:00
 ---
@@ -16,7 +17,7 @@ last_modified_at: 2020-04-30T20:10:00+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/1507>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/1507>{: target="\_blank"}
 
 ### 풀이 코드
 
@@ -59,4 +60,4 @@ print(result)
 
 ### 비고
 
-- 플로이드 와샬 알고리즘
+-   플로이드 와샬 알고리즘

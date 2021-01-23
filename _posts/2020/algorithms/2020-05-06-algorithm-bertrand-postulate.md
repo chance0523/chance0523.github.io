@@ -1,13 +1,14 @@
 ---
-title: "[Python] BOJ 4948번. 베르트랑 공준"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 4948번. 베르트랑 공준'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver2
-meta_keywords: 알고리즘,백준,파이썬,4948번
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Silver2]
+toc: true
+toc_sticky: true
 date: 2020-05-06 23:30:00 -0400
 last_modified_at: 2020-05-06T23:30:00+08:00
 ---
@@ -16,7 +17,7 @@ last_modified_at: 2020-05-06T23:30:00+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/4948>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/4948>{: target="\_blank"}
 
 ### 풀이 코드
 
@@ -44,5 +45,5 @@ while True:
 
 ### 비고
 
-- 미리 리스트를 선언해야 시간 초과가 나지 않는다.
-- i의 배수를 다 false로 지우면 쉽게 할 수 있다.
+-   미리 리스트를 선언해야 시간 초과가 나지 않는다.
+-   i의 배수를 다 false로 지우면 쉽게 할 수 있다.

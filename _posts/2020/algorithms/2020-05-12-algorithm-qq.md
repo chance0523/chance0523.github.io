@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 10926번. ??!"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 10926번. ??!'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Bronze5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Bronze5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,10926번
 date: 2020-05-12 20:45:00 -0400
 last_modified_at: 2020-05-12T20:45:00+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-12T20:45:00+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/10926>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/10926>{: target="\_blank"}
 
 ### 풀이 코드
 
@@ -29,5 +31,5 @@ print(f'{a}??!')
 
 ### 비고
 
-- 브론즈5
-- f format 갓갓
+-   브론즈5
+-   f format 갓갓

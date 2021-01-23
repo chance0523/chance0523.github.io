@@ -1,13 +1,14 @@
 ---
-title: "[Python] BOJ 5567번. 결혼식"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 5567번. 결혼식'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Graph Silver1
-meta_keywords: 알고리즘,백준,파이썬,5567번
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 그래프, Silver1]
+toc: true
+toc_sticky: true
 date: 2020-04-28 18:45:00 -0400
 last_modified_at: 2020-04-28T18:45:00+08:00
 ---
@@ -16,7 +17,7 @@ last_modified_at: 2020-04-28T18:45:00+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/5567>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/5567>{: target="\_blank"}
 
 ### 풀이 코드
 
@@ -53,4 +54,4 @@ print(sum(jiksok)+sum(ff))
 
 ### 비고
 
-- bfs로 풀어야되는데 그냥 구현 느낌으로 푼 것 같다...
+-   bfs로 풀어야되는데 그냥 구현 느낌으로 푼 것 같다...

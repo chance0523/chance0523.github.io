@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1085번. 직사각형에서 탈출"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1085번. 직사각형에서 탈출'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Bronze3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1085번
 date: 2020-05-12 21:40:00 -0400
 last_modified_at: 2020-05-12T21:40:18+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-12T21:40:18+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/1085>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/1085>{: target="\_blank"}
 
 ### 풀이 코드
 
