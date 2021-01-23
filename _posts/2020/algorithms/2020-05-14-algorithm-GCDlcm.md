@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 2609번. 최대공약수와 최소공배수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 2609번. 최대공약수와 최소공배수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Silver5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2609번
 date: 2020-05-14 01:57:57 -0400
 last_modified_at: 2020-05-14T01:57:57+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T01:57:57+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/2609>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/2609>{: target="\_blank"}
 
 ### 풀이 코드
 

@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 11650번. 좌표 정렬하기"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 11650번. 좌표 정렬하기'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ sort Silver5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 정렬, Silver5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,11650번
 date: 2020-05-14 02:15:20 -0400
 last_modified_at: 2020-05-14T02:15:20+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T02:15:20+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/11650>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/11650>{: target="\_blank"}
 
 ### 풀이 코드
 

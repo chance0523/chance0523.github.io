@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1966번. 프린터 큐"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1966번. 프린터 큐'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ stack Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 스택, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1966번
 date: 2020-05-15 00:38:03 -0400
 last_modified_at: 2020-05-15T00:38:03+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-15T00:38:03+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/1966>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/1966>{: target="\_blank"}
 
 ### 풀이 코드
 

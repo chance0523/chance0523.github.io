@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1038번. 감소하는 수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1038번. 감소하는 수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ brute_force_search Gold5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 브루트포스, Gold5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1038번
 date: 2020-05-14 01:04:43 -0400
 last_modified_at: 2020-05-14T01:04:43+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T01:04:43+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/1038>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/1038>{: target="\_blank"}
 
 ### 풀이 코드
 

@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 2869번. 달팽이는 올라가고 싶다"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 2869번. 달팽이는 올라가고 싶다'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Bronze]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2869번
 date: 2020-05-14 15:46:10 -0400
 last_modified_at: 2020-05-14T15:46:10+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T15:46:10+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/2869>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/2869>{: target="\_blank"}
 
 ### 풀이 코드
 

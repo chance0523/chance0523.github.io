@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1003번. 피보나치 함수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1003번. 피보나치 함수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ DP Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, DP, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1003번
 date: 2020-05-22 03:48:12 -0400
 last_modified_at: 2020-05-22T03:48:12+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-05-22T03:48:12+08:00
 # 1003번. 피보나치 함수
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/1003>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/1003>{: target="\_blank"}
 
 ### 풀이 코드
 

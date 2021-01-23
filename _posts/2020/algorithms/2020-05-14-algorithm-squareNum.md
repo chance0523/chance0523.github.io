@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1025번. 제곱수 찾기"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1025번. 제곱수 찾기'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforcing Silver1
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 브루트포스, Silver1]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1025번
 date: 2020-05-14 00:17:08 -0400
 last_modified_at: 2020-05-14T00:17:08+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T00:17:08+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/1025>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/1025>{: target="\_blank"}
 
 ### 풀이 코드
 

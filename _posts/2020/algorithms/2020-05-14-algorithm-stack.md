@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 10828번. 스택"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 10828번. 스택'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ stack Silver4
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 스택, Silver4]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,10828번
 date: 2020-05-14 12:29:07 -0400
 last_modified_at: 2020-05-14T12:29:07+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T12:29:07+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/10828>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/10828>{: target="\_blank"}
 
 ### 풀이 코드
 

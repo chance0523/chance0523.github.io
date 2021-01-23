@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 11724번. 연결 요소의 개수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 11724번. 연결 요소의 개수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ graph Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 그래프, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,11724번
 date: 2020-05-24 00:59:02 -0400
 last_modified_at: 2020-05-24T00:59:02+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-05-24T00:59:02+08:00
 # 11724번. 연결 요소의 개수
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/11724>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/11724>{: target="\_blank"}
 
 ### 풀이 코드
 

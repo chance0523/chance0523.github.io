@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 10971번. 외판원 순회2"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 10971번. 외판원 순회2'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Silver2
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 브루트포스, Silver2]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,10971번
 date: 2020-05-16 01:18:05 -0400
 last_modified_at: 2020-05-16T01:18:05+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-05-16T01:18:05+08:00
 # 10971번. 외판원 순회2
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/10971>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/10971>{: target="\_blank"}
 
 ### 풀이 코드
 

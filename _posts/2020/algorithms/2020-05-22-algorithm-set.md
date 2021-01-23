@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 11723번. 집합"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 11723번. 집합'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Silver5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,11723번
 date: 2020-05-22 02:02:48 -0400
 last_modified_at: 2020-05-22T02:02:48+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-05-22T02:02:48+08:00
 # 11723번. 집합
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/11723>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/11723>{: target="\_blank"}
 
 ### 풀이 코드
 

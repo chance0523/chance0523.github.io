@@ -1,21 +1,24 @@
 ---
-title: "[Python] BOJ 14652_나는 행복합니다~"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 14652_나는 행복합니다~'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Bronze]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,14652번
 date: 2020-05-22 02:13:30 -0400
 last_modified_at: 2020-05-22T02:13:30+08:00
 ---
 
-# 14652_나는 행복합니다~
+# 14652\_나는 행복합니다~
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/14652>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/14652>{: target="\_blank"}
 
 ### 풀이 코드
 

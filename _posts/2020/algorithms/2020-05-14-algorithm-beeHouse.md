@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 2292번. 벌집"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 2292번. 벌집'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 구현, Bronze]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2292번
 date: 2020-05-14 15:16:38 -0400
 last_modified_at: 2020-05-14T15:16:38+08:00
@@ -16,7 +18,7 @@ last_modified_at: 2020-05-14T15:16:38+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/2292>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/2292>{: target="\_blank"}
 
 ### 풀이 코드
 

@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1927번. 최소 힙"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1927번. 최소 힙'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ heap Silver1
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 힙, Silver1]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1927번
 date: 2020-05-29 16:06:38 -0400
 last_modified_at: 2020-05-29T16:06:38+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-05-29T16:06:38+08:00
 # 1927번. 최소 힙
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/1927>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/1927>{: target="\_blank"}
 
 ### 풀이 코드
 

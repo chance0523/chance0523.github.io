@@ -1,11 +1,14 @@
 ---
 title: "[Python] BOJ 1697번. 숨바꼭질"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, 그래프, Silver1]
+toc: true
+toc_sticky: true
 categories: Algorithm BOJ graph Silver1
 meta_keywords: 알고리즘,백준,파이썬,1697번
 date: 2020-05-29 20:12:17 -0400
@@ -15,7 +18,8 @@ last_modified_at: 2020-05-29T20:12:17+08:00
 # 1697번. 숨바꼭질
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/1697>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/1697>{: target="\_blank"}
 
 ### 풀이 코드
 
