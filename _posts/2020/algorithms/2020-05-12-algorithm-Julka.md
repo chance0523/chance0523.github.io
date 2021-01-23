@@ -6,7 +6,7 @@ comments: true
 categories:
     - Algorithms
 tags:
-    - [Algorithms, BOJ, Python, Bronze5]
+    - [Algorithms, BOJ, Python, Bronze]
 toc: true
 toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,8437번

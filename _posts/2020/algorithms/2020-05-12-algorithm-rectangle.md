@@ -6,7 +6,7 @@ comments: true
 categories:
     - Algorithms
 tags:
-    - [Algorithms, BOJ, Python, 구현, Bronze3]
+    - [Algorithms, BOJ, Python, 구현, Bronze]
 toc: true
 toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1085번

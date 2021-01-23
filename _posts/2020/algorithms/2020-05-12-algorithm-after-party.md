@@ -6,7 +6,7 @@ comments: true
 categories:
     - Algorithms
 tags:
-    - [Algorithms, BOJ, Python, Bronze5]
+    - [Algorithms, BOJ, Python, Bronze]
 toc: true
 toc_sticky: true
 date: 2020-05-12 12:30:00 -0400

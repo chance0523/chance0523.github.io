@@ -1,5 +1,5 @@
 ---
-title: "[Python] BOJ 2748번. 피보나치 수 2"
+title: '[Python] BOJ 2748번. 피보나치 수 2'
 layout: single
 author_profile: true
 read_time: true
@@ -16,7 +16,7 @@ last_modified_at: 2020-05-13T02:08:18+08:00
 
 ### 문제 링크
 
-- <https://www.acmicpc.net/problem/2748>{: target="\_blank"}
+-   <https://www.acmicpc.net/problem/2748>{: target="\_blank"}
 
 ### 풀이 코드
 
