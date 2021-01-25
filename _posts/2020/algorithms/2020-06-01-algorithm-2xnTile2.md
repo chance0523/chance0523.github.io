@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 11727번. 2×n 타일링 2"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ DP Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, DP, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,11727번
 date: 2020-06-01 23:00:55 -0400
 last_modified_at: 2020-06-01T23:00:55+08:00
