@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 1676번. 팩토리얼 0의 개수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 1676번. 팩토리얼 0의 개수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1676번
 date: 2020-06-01 20:57:49 -0400
 last_modified_at: 2020-06-01T20:57:49+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-06-01T20:57:49+08:00
 # 1676번. 팩토리얼 0의 개수
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/1676>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/1676>{: target="\_blank"}
 
 ### 풀이 코드
 
