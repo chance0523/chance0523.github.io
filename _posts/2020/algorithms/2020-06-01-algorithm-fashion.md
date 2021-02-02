@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 9375번. 패션왕 신해빈"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 9375번. 패션왕 신해빈'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,9375번
 date: 2020-06-01 21:39:33 -0400
 last_modified_at: 2020-06-01T21:39:33+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-06-01T21:39:33+08:00
 # 9375번. 패션왕 신해빈
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/9375>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/9375>{: target="\_blank"}
 
 ### 풀이 코드
 
