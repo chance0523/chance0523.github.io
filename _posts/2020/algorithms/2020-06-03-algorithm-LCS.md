@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 9251번. LCS"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ DP Gold5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, DP, Gold5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,9251번
 date: 2020-06-03 01:43:51 -0400
 last_modified_at: 2020-06-03T01:43:51+08:00

@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 2225번. 분해합"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ DP Gold5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, DP, Gold5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2225번
 date: 2020-06-08 16:31:33 -0400
 last_modified_at: 2020-06-08T16:31:33+08:00

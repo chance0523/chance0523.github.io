@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 17626번. Four Squares"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Silver5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,17626번
 date: 2020-06-01 20:47:12 -0400
 last_modified_at: 2020-06-01T20:47:12+08:00

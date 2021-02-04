@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 1107번. 리모컨"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Gold5
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, bruteforce, Gold5]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1107번
 date: 2020-06-03 02:59:30 -0400
 last_modified_at: 2020-06-03T02:59:30+08:00

@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 18119번. 단어 암기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Gold4
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, bruteforce, Gold4]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,18119번
 date: 2020-06-08 17:55:26 -0400
 last_modified_at: 2020-06-08T17:55:26+08:00

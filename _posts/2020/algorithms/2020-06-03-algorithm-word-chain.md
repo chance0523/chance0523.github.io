@@ -1,12 +1,14 @@
 ---
 title: "[Python] Programmers 영어 끝말잇기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm Programmers string
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, Programmers, Python, String]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,프로그래머스,파이썬
 date: 2020-06-03 00:28:00 -0400
 last_modified_at: 2020-06-03T00:28:00+08:00

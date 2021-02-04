@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 2407번. 조합"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver2
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Silver2]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2407번
 date: 2020-06-03 01:12:53 -0400
 last_modified_at: 2020-06-03T01:12:53+08:00

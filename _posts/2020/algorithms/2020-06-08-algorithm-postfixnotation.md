@@ -1,12 +1,14 @@
 ---
 title: "[Python] BOJ 1918번. 후위 표기식"
-layout: single
-author_profile: true
-read_time: true
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ stack Gold4
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Stack, Gold4]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,1918번
 date: 2020-06-08 19:34:54 -0400
 last_modified_at: 2020-06-08T19:34:54+08:00
