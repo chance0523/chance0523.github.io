@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 2747번. 피보나치 수"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 2747번. 피보나치 수'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Bronze]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,2747번
 date: 2020-06-09 20:23:23 -0400
 last_modified_at: 2020-06-09T20:23:23+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-06-09T20:23:23+08:00
 # 2747번. 피보나치 수
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/2747>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/2747>{: target="\_blank"}
 
 ### 풀이 코드
 
