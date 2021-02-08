@@ -1,12 +1,12 @@
 ---
-title: '[Python] programmers 완전탐색 | 숫자 야구'
+title: '[Python] programmers 숫자 야구'
 excerpt: ''
 comments: true
 
 categories:
     - Algorithms
 tags:
-    - [Algorithms, Programmers, Python, 브루트포스]
+    - [Algorithms, Programmers, Python, bruteforce]
 toc: true
 toc_sticky: true
 meta_keywords: 알고리즘,프로그래머스,파이썬,숫자야구
