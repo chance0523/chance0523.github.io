@@ -1,12 +1,14 @@
 ---
-title: "[Python] BOJ 10826번. 피보나치 수 4"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 10826번. 피보나치 수 4'
+excerpt: ''
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver3
+
+categories:
+    - Algorithms
+tags:
+    - [Algorithms, BOJ, Python, Implement, Silver3]
+toc: true
+toc_sticky: true
 meta_keywords: 알고리즘,백준,파이썬,10826번
 date: 2020-06-09 20:27:25 -0400
 last_modified_at: 2020-06-09T20:27:25+08:00
@@ -15,7 +17,8 @@ last_modified_at: 2020-06-09T20:27:25+08:00
 # 10826번. 피보나치 수 4
 
 ### 문제 링크
-- <https://www.acmicpc.net/problem/10826>{: target="\_blank"}
+
+-   <https://www.acmicpc.net/problem/10826>{: target="\_blank"}
 
 ### 풀이 코드
 
