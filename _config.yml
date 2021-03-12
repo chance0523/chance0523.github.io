@@ -12,27 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: 'air' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: 'en-US'
-title: '찬스'
-title_separator: '-'
-subtitle: 'Version 2.0' # 타이틀 아래에 나올 작은 글씨
-name: '서정준 Seo Jeong Joon'
-description: '알고리즘, 웹, 데이터 사이언스, 머신러닝'
-url: 'https://samuel950523.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: "en-US"
+title: "찬스"
+title_separator: "-"
+subtitle: "Version 2.0" # 타이틀 아래에 나올 작은 글씨
+name: "서정준 Seo Jeong Joon"
+description: "알고리즘, 웹, 데이터 사이언스, 머신러닝"
+url: "https://samuel950523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: 'samuel950523/samuel950523.github.com' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "samuel950523/samuel950523.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: #"/assets/images/hlogo.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: '찬스의 Blog' # 홈페이지 최 상탄에 들어갈 타이틀
+masthead_title: "찬스의 Blog" # 홈페이지 최 상탄에 들어갈 타이틀
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-    provider: 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+    provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
     disqus:
-        shortname: 'samuel950523-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+        shortname: "samuel950523-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     discourse:
         server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
     facebook:
@@ -85,66 +85,66 @@ social:
 
 # Analytics
 analytics:
-    provider: 'google' # false (default), "google", "google-universal", "custom"
+    provider: "google" # false (default), "google", "google-universal", "custom"
     google:
-        tracking_id: 'G-DFVMBQWZST'
+        tracking_id: "G-DFVMBQWZST"
         anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-    name: '서정준, Seo Jeong Joon'
+    name: "서정준, Seo Jeong Joon"
     avatar: # "/assets/images/profile/poto.jpg" # 프로필 이미지
-    bio: 'POOR HALF-STACK DEVELOPER'
-    location: 'NHN godo:'
-    email: 'samuel95@naver.com'
+    bio: "POOR HALF-STACK DEVELOPER"
+    location: "NHN godo:"
+    email: "samuel95@naver.com"
     links:
-        - label: 'Email'
-          icon: 'fas fa-fw fa-envelope-square'
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
           #url: mailto:7271kim@naver.com
-        - label: 'Website'
-          icon: 'fas fa-fw fa-link'
+        - label: "Website"
+          icon: "fas fa-fw fa-link"
           # url: ""
-        - label: 'Facebook'
-          icon: 'fab fa-fw fa-facebook-square'
-          url: 'https://www.facebook.com/jeongjoon.seo95'
-        - label: 'GitHub'
-          icon: 'fab fa-fw fa-github'
-          url: 'https://github.com/samuel950523'
-        - label: 'Instagram'
-          icon: 'fab fa-fw fa-instagram'
-          url: 'https://instagram.com/sir_j_j_'
+        - label: "Facebook"
+          icon: "fab fa-fw fa-facebook-square"
+          url: "https://www.facebook.com/jeongjoon.seo95"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/samuel950523"
+        - label: "Instagram"
+          icon: "fab fa-fw fa-instagram"
+          url: "https://instagram.com/sir_j_j_"
 # Site Footer
 footer:
     links:
-        - label: 'Email'
-          icon: 'fas fa-fw fa-envelope-square'
+        - label: "Email"
+          icon: "fas fa-fw fa-envelope-square"
           url: mailto:samuel95@naver.com
-        - label: 'Twitter'
-          icon: 'fab fa-fw fa-twitter-square'
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
           # url:
-        - label: 'Facebook'
-          icon: 'fab fa-fw fa-facebook-square'
-          url: 'https://www.facebook.com/jeongjoon.seo95'
-        - label: 'GitHub'
-          icon: 'fab fa-fw fa-github'
-          url: 'https://github.com/samuel950523'
-        - label: 'GitLab'
-          icon: 'fab fa-fw fa-gitlab'
+        - label: "Facebook"
+          icon: "fab fa-fw fa-facebook-square"
+          url: "https://www.facebook.com/jeongjoon.seo95"
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/samuel950523"
+        - label: "GitLab"
+          icon: "fab fa-fw fa-gitlab"
           # url:
-        - label: 'Bitbucket'
-          icon: 'fab fa-fw fa-bitbucket'
+        - label: "Bitbucket"
+          icon: "fab fa-fw fa-bitbucket"
           # url:
-        - label: 'Instagram'
-          icon: 'fab fa-fw fa-instagram'
-          url: 'https://instagram.com/sir_j_j_'
+        - label: "Instagram"
+          icon: "fab fa-fw fa-instagram"
+          url: "https://instagram.com/sir_j_j_"
 
 # Reading Files
 include:
     - .htaccess
     - _pages
 exclude:
-    - '*.sublime-project'
-    - '*.sublime-workspace'
+    - "*.sublime-project"
+    - "*.sublime-workspace"
     - vendor
     - .asset-cache
     - .bundle
@@ -172,8 +172,8 @@ exclude:
 keep_files:
     - .git
     - .svn
-encoding: 'utf-8'
-markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
@@ -259,7 +259,7 @@ compress_html:
 defaults:
     # _posts
     - scope:
-          path: ''
+          path: ""
           type: posts
       values:
           layout: single
@@ -270,7 +270,7 @@ defaults:
           related: true
     # _pages
     - scope:
-          path: '_pages'
+          path: "_pages"
           type: pages
       values:
           layout: single
