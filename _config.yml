@@ -21,9 +21,9 @@ title_separator: "-"
 subtitle: "Version 2.0" # 타이틀 아래에 나올 작은 글씨
 name: "서정준 Seo Jeong Joon"
 description: "알고리즘, 웹, 데이터 사이언스, 머신러닝"
-url: "https://samuel950523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://chance0523.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "samuel950523/samuel950523.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "chance0523/chance0523.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: #"/assets/images/hlogo.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "찬스의 Blog" # 홈페이지 최 상탄에 들어갈 타이틀
@@ -32,7 +32,7 @@ words_per_minute: 200
 comments:
     provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
     disqus:
-        shortname: "samuel950523-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+        shortname: "chance0523-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     discourse:
         server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
     facebook:
@@ -109,7 +109,7 @@ author:
           url: "https://www.facebook.com/jeongjoon.seo95"
         - label: "GitHub"
           icon: "fab fa-fw fa-github"
-          url: "https://github.com/samuel950523"
+          url: "https://github.com/chance0523"
         - label: "Instagram"
           icon: "fab fa-fw fa-instagram"
           url: "https://instagram.com/sir_j_j_"
@@ -127,7 +127,7 @@ footer:
           url: "https://www.facebook.com/jeongjoon.seo95"
         - label: "GitHub"
           icon: "fab fa-fw fa-github"
-          url: "https://github.com/samuel950523"
+          url: "https://github.com/chance0523"
         - label: "GitLab"
           icon: "fab fa-fw fa-gitlab"
           # url:
