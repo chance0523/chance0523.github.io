@@ -1,13 +1,14 @@
 ---
-title: "[Python] BOJ 5489번. Numbers"
-layout: single
-author_profile: true
-read_time: true
+title: '[Python] BOJ 5489번. Numbers'
+excerpt: '기술교육 - 웹 서버 교육'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ
-meta_keywords: 알고리즘,백준,파이썬,5489번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬,5489번]
+toc: true
+toc_sticky: true
 date: 2021-07-24 19:20:25 -0400
 last_modified_at: 2021-07-24T19:20:25+08:00
 ---
