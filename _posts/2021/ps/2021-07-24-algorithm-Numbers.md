@@ -1,6 +1,6 @@
 ---
 title: '[Python] BOJ 5489번. Numbers'
-excerpt: '기술교육 - 웹 서버 교육'
+excerpt: '알고리즘'
 comments: true
 
 categories:
