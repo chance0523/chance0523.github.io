@@ -13,6 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-weight: normal;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -355,8 +356,4 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
-}
-
-strong, b {
-  font-weight: 900;
 }
