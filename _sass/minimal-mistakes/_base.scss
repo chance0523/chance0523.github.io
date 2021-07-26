@@ -356,3 +356,7 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+strong, b {
+  font-weight: 900;
+}
