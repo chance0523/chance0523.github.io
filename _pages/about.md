@@ -9,7 +9,7 @@ author_profile: true
 
 👨‍💻 . Name : 서정준 Seo Jeong Joon
 
-🏢 . Company : NHN godo:
+🏢 . Company : NHN COMMERCE
 
 🔻<br>
 POOR HAFL STACK DEVELOPER.<br>
