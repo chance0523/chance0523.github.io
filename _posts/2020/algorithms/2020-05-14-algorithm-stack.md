@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, 스택, Silver4]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,10828번
 date: 2020-05-14 12:29:07 -0400
 last_modified_at: 2020-05-14T12:29:07+08:00
 ---

@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, 구현, Silver3]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,18111번
 date: 2020-05-15 01:39:18 -0400
 last_modified_at: 2020-05-15T01:39:18+08:00
 ---

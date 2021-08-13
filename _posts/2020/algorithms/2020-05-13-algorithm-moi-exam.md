@@ -9,7 +9,6 @@ tags:
     - [Algorithms, Programmers, Python, bruteforce]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,프로그래머스,파이썬,모의고사
 date: 2020-05-13 18:50:00 -0400
 last_modified_at: 2020-05-13T18:50:00+08:00
 ---

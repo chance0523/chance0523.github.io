@@ -9,7 +9,6 @@ tags:
     - [Algorithms, Programmers, Python, Implement]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,프로그래머스,파이썬
 date: 2020-06-03 00:30:00 -0400
 last_modified_at: 2020-06-03T00:30:00+08:00
 ---

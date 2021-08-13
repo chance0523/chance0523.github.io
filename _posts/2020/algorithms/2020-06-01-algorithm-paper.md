@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, divide_conquer, Silver2]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,1780번
 date: 2020-06-01 23:21:39 -0400
 last_modified_at: 2020-06-01T23:21:39+08:00
 ---

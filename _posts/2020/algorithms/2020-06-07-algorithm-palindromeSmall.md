@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, DP, Gold3]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,14505번
 date: 2020-06-07 22:43:52 -0400
 last_modified_at: 2020-06-07T22:43:52+08:00
 ---

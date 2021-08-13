@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, 구현, Bronze]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,17256번
 date: 2020-05-22 02:42:45 -0400
 last_modified_at: 2020-05-22T02:42:45+08:00
 ---

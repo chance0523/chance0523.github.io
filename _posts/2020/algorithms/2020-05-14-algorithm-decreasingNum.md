@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, 브루트포스, Gold5]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,1038번
 date: 2020-05-14 01:04:43 -0400
 last_modified_at: 2020-05-14T01:04:43+08:00
 ---

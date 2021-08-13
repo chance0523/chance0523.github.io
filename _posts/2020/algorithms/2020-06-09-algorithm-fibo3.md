@@ -9,7 +9,6 @@ tags:
     - [Algorithms, BOJ, Python, Implement, Gold2]
 toc: true
 toc_sticky: true
-meta_keywords: 알고리즘,백준,파이썬,2749번
 date: 2020-06-09 20:49:17 -0400
 last_modified_at: 2020-06-09T20:49:17+08:00
 ---
