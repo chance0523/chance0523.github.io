@@ -13,7 +13,7 @@ date: 2021-08-13 21:35:25 -0400
 last_modified_at: 2021-08-13T21:35:25+08:00
 ---
 
-# 소수찾기
+# 문자열 내 마음대로 정렬하기
 
 ### 문제 링크
 - <https://programmers.co.kr/learn/courses/30/lessons/12925>{: target="\_blank"}

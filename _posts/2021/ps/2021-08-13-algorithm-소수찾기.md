@@ -20,10 +20,9 @@ last_modified_at: 2021-08-13T21:30:25+08:00
 
 ### 풀이 코드
 - 에라토스테네스의 체의 연습문제로 좋은 문제입니다.
+
 ```python
 # 소수 찾기
-
-
 def solution(n):
     answer = 0
     pList = [False for _ in range(n+1)]
