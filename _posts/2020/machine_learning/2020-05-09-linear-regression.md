@@ -1,13 +1,14 @@
 ---
 title: "Linear Regression"
-layout: single
-author_profile: true
-read_time: true
+excerpt: 'Machine Learning'
 comments: true
-share: true
-related: true
-categories: machine_learning
-meta_keywords: 머신러닝, linear regression
+
+categories:
+    - Machine Learning
+tags:
+    - [Machine Learning, 머신러닝]
+toc: true
+toc_sticky: true
 date: 2020-05-09 21:00:00 -0400
 ---
 

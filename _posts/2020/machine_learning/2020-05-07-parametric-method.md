@@ -1,13 +1,14 @@
 ---
 title: "Parametric Method vs Nonparametric Method"
-layout: single
-author_profile: true
-read_time: true
+excerpt: 'Machine Learning'
 comments: true
-share: true
-related: true
-categories: machine_learning
-meta_keywords: 머신러닝, parametric method
+
+categories:
+    - Machine Learning
+tags:
+    - [Machine Learning, 머신러닝]
+toc: true
+toc_sticky: true
 date: 2020-05-07 05:10:00 -0400
 ---
 

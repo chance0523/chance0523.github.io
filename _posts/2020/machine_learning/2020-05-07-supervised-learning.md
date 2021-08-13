@@ -1,13 +1,14 @@
 ---
 title: "Supervised Learning vs Unsupervised Learning"
-layout: single
-author_profile: true
-read_time: true
+excerpt: 'Machine Learning'
 comments: true
-share: true
-related: true
-categories: machine_learning
-meta_keywords: 머신러닝, supervised learning
+
+categories:
+    - Machine Learning
+tags:
+    - [Machine Learning, 머신러닝]
+toc: true
+toc_sticky: true
 date: 2020-05-07 04:58:00 -0400
 ---
 
