@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2312번. 수 복원하기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Silver2
-meta_keywords: 알고리즘,백준,파이썬,2312번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-30 17:28:02 -0400
 last_modified_at: 2020-06-30T17:28:02+08:00
 ---

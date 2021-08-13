@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1986번. 체스"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver1
-meta_keywords: 알고리즘,백준,파이썬,1986번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-30 19:28:19 -0400
 last_modified_at: 2020-06-30T19:28:19+08:00
 ---

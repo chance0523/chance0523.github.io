@@ -4,9 +4,9 @@ excerpt: ''
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 이분탐색, Silver4]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-14 01:47:49 -0400

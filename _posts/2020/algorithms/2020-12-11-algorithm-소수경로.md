@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1963번. 소수경로"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ graph Gold5
-meta_keywords: 알고리즘,백준,파이썬,1963번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-11 00:11:03 -0400
 last_modified_at: 2020-12-11T00:11:03+08:00
 ---

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 14235번. 크리스마스 선물"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ priorityQueue Silver3
-meta_keywords: 알고리즘,백준,파이썬,14235번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-24 00:19:42 -0400
 last_modified_at: 2020-12-24T00:19:42+08:00
 ---

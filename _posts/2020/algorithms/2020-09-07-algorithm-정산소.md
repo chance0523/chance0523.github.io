@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 11735번. 정산소"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Gold5
-meta_keywords: 알고리즘,백준,파이썬,11735번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-07 17:10:43 -0400
 last_modified_at: 2020-09-07T17:10:43+08:00
 ---

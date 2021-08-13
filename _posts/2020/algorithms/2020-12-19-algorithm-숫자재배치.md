@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 16943번. 숫자 재배치"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Silver1
-meta_keywords: 알고리즘,백준,파이썬,16943번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-19 17:09:46 -0400
 last_modified_at: 2020-12-19T17:09:46+08:00
 ---

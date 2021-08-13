@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 15947번. 아기 석환 뚜루루 뚜루"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ case_work Bronze
-meta_keywords: 알고리즘,백준,파이썬,15947번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2021-01-10 16:51:08 -0400
 last_modified_at: 2021-01-10T16:51:08+08:00
 ---

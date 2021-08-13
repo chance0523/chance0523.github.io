@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 2747번. 피보나치 수'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Bronze]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-09 20:23:23 -0400

@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 16953번. A->B"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Silver1]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-08 16:44:33 -0400

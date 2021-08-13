@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 9375번. 패션왕 신해빈'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Silver3]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-01 21:39:33 -0400

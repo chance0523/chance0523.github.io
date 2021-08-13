@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1076번. 저항"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Bronze
-meta_keywords: 알고리즘,백준,파이썬,1076번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-07-17 21:04:23 -0400
 last_modified_at: 2020-07-17T21:04:23+08:00
 ---

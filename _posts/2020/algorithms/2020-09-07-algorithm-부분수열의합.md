@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 14225번. 부분수열의 합"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Gold5
-meta_keywords: 알고리즘,백준,파이썬,14225번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-07 17:24:54 -0400
 last_modified_at: 2020-09-07T17:24:54+08:00
 ---

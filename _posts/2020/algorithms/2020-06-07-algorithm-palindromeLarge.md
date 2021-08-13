@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 14517번. 팰린드롬 개수 구하기 (Large)"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, DP, Platinum5]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-07 22:43:27 -0400

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2309번. 일곱 난쟁이"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Bronze
-meta_keywords: 알고리즘,백준,파이썬,2309번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-29 20:47:57 -0400
 last_modified_at: 2020-06-29T20:47:57+08:00
 ---

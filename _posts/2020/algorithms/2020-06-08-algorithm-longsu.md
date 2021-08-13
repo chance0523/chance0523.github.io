@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 11053번. 가장 긴 증가하는 부분 수열"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, DP, Silver2]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-08 19:18:06 -0400

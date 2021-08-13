@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 14928번. 큰 수 (BIG)'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 구현, Bronze]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-22 02:17:04 -0400

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 4690번. 완전 세제곱"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ implement Bronze
-meta_keywords: 알고리즘,백준,파이썬,4690번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-29 20:02:02 -0400
 last_modified_at: 2020-06-29T20:02:02+08:00
 ---

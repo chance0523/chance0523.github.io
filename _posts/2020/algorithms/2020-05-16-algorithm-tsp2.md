@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 10971번. 외판원 순회2'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 브루트포스, Silver2]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-16 01:18:05 -0400

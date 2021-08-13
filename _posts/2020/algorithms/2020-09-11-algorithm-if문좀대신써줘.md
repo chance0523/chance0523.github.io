@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 19637번. IF문 좀 대신 써줘"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ sort Silver2
-meta_keywords: 알고리즘,백준,파이썬,19637번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-11 01:45:35 -0400
 last_modified_at: 2020-09-11T01:45:35+08:00
 ---

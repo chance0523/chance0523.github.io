@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 16481번. 원 전문가 진우"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ geo Platinum4
-meta_keywords: 알고리즘,백준,파이썬,16481번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-10 01:35:30 -0400
 last_modified_at: 2020-06-10T01:35:30+08:00
 ---

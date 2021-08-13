@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1417번. 국회의원 선거"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bruteforce Silver5
-meta_keywords: 알고리즘,백준,파이썬,1417번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-17 18:26:55 -0400
 last_modified_at: 2020-12-17T18:26:55+08:00
 ---

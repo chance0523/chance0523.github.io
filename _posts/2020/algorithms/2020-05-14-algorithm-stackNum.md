@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 1874번. 스택 수열'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 스택, Silver3]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-14 23:57:51 -0400

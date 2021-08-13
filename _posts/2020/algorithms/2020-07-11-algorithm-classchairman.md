@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2456번. 나는 학급회장이다"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
-meta_keywords: 알고리즘,백준,파이썬,2456번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-07-11 23:44:32 -0400
 last_modified_at: 2020-07-11T23:44:32+08:00
 ---

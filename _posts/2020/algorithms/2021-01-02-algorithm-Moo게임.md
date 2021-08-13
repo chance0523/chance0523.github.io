@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 5904번. Moo 게임"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ dp Silver1
-meta_keywords: 알고리즘,백준,파이썬,5904번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2021-01-02 00:32:35 -0400
 last_modified_at: 2021-01-02T00:32:35+08:00
 ---

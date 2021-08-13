@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 17478번. 재귀함수가 뭔가요?"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ recursion Silver5
-meta_keywords: 알고리즘,백준,파이썬,17478번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-19 18:15:02 -0400
 last_modified_at: 2020-06-19T18:15:02+08:00
 ---

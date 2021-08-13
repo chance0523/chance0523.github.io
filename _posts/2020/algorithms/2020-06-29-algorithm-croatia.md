@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2941번. 크로아티아 알파벳"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ string Silver5
-meta_keywords: 알고리즘,백준,파이썬,2941번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-29 20:42:30 -0400
 last_modified_at: 2020-06-29T20:42:30+08:00
 ---

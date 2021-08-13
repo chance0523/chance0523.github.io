@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 10708번. 크리스마스 파티"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ implement Bronze
-meta_keywords: 알고리즘,백준,파이썬,10708번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-24 00:12:10 -0400
 last_modified_at: 2020-12-24T00:12:10+08:00
 ---

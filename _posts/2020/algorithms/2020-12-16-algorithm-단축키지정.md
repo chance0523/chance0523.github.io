@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1283번. 단축키 지정"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ string Silver3
-meta_keywords: 알고리즘,백준,파이썬,1283번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-16 18:03:49 -0400
 last_modified_at: 2020-12-16T18:03:49+08:00
 ---

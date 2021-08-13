@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 1780번. 종이의 개수"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, divide_conquer, Silver2]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-01 23:21:39 -0400

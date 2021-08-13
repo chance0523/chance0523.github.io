@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 20499번. Darius님 한타 안 함?"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Bronze
-meta_keywords: 알고리즘,백준,파이썬,20499번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-30 23:15:24 -0400
 last_modified_at: 2020-12-30T23:15:24+08:00
 ---

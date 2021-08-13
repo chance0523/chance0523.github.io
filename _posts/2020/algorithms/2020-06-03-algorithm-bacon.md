@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 1389번. 케빈 베이컨의 6단계 법칙"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Graph, Silver1]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-03 02:08:45 -0400

@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 11723번. 집합'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 구현, Silver5]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-22 02:02:48 -0400

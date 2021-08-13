@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 18291번. 비요뜨의 징검다리 건너기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Silver1
-meta_keywords: 알고리즘,백준,파이썬,18291번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-07-24 00:21:04 -0400
 last_modified_at: 2020-07-24T00:21:04+08:00
 ---

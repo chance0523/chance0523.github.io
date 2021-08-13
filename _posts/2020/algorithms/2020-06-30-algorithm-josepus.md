@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1158번. 요세푸스 문제"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
-meta_keywords: 알고리즘,백준,파이썬,1158번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-30 08:38:33 -0400
 last_modified_at: 2020-06-30T08:38:33+08:00
 ---

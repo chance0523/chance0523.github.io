@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 1107번. 리모컨"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, bruteforce, Gold5]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-03 02:59:30 -0400

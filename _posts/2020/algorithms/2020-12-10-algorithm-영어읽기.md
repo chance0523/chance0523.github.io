@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1501번. 영어 읽기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ string Gold5
-meta_keywords: 알고리즘,백준,파이썬,1501번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-10 22:43:05 -0400
 last_modified_at: 2020-12-10T22:43:05+08:00
 ---

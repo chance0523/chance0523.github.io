@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 1629번. 곱셈"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Silver1]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-03 01:25:05 -0400

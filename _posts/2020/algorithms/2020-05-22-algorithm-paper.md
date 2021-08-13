@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 2630번. 색종이 만들기'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, 구현, Silver3]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-22 04:03:57 -0400

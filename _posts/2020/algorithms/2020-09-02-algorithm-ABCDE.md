@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 13023번. ABCDE"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ graph Gold5
-meta_keywords: 알고리즘,백준,파이썬,13023번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-02 00:44:47 -0400
 last_modified_at: 2020-09-02T00:44:47+08:00
 ---

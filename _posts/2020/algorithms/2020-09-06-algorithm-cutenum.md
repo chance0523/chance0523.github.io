@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 17294번. 귀여운 수"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Bronze
-meta_keywords: 알고리즘,백준,파이썬,17294번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-06 22:01:32 -0400
 last_modified_at: 2020-09-06T22:01:32+08:00
 ---

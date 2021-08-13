@@ -1,12 +1,12 @@
 ---
 title: "[Python] Programmers 영어 끝말잇기"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, Programmers, Python, String]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-03 00:28:00 -0400

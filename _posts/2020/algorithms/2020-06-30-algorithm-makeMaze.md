@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1347번. 미로 만들기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver4
-meta_keywords: 알고리즘,백준,파이썬,1347번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-30 17:18:00 -0400
 last_modified_at: 2020-06-30T17:18:00+08:00
 ---

@@ -6,7 +6,7 @@ comments: true
 categories:
     - Algorithm
 tags:
-    - [알고리즘,백준,파이썬,1647번]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2021-07-26 11:20:25 -0400

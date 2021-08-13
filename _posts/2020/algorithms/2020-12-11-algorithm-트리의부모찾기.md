@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 11725번. 트리의 부모 찾기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ tree Silver2
-meta_keywords: 알고리즘,백준,파이썬,11725번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-11 11:20:09 -0400
 last_modified_at: 2020-12-11T11:20:09+08:00
 ---

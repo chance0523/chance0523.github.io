@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1915번. 가장 큰 정사각형"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ dp Gold5
-meta_keywords: 알고리즘,백준,파이썬,1915번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-12 13:36:27 -0400
 last_modified_at: 2020-12-12T13:36:27+08:00
 ---

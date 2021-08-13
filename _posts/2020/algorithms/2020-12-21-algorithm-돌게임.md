@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 9655번. 돌게임"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Silver5
-meta_keywords: 알고리즘,백준,파이썬,9655번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-21 22:15:55 -0400
 last_modified_at: 2020-12-21T22:15:55+08:00
 ---

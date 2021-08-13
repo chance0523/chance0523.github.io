@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2075번. N번째 큰 수"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ heapq Gold4
-meta_keywords: 알고리즘,백준,파이썬,2075번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-09 17:26:39 -0400
 last_modified_at: 2020-06-09T17:26:39+08:00
 ---

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 11286번. 절댓값 힙"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ heap Silver1
-meta_keywords: 알고리즘,백준,파이썬,11286번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-17 22:17:32 -0400
 last_modified_at: 2020-06-17T22:17:32+08:00
 ---

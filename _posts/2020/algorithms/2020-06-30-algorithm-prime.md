@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2581번. 소수"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ prime Silver4
-meta_keywords: 알고리즘,백준,파이썬,2581번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-30 07:51:28 -0400
 last_modified_at: 2020-06-30T07:51:28+08:00
 ---

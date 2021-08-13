@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1193번. 분수찾기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ implement Bronze
-meta_keywords: 알고리즘,백준,파이썬,1193번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-29 20:28:10 -0400
 last_modified_at: 2020-06-29T20:28:10+08:00
 ---

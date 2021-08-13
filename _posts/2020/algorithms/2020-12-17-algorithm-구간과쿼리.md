@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 16965번. 구간과 쿼리"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ bfs Gold5
-meta_keywords: 알고리즘,백준,파이썬,16965번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-17 00:13:53 -0400
 last_modified_at: 2020-12-17T00:13:53+08:00
 ---

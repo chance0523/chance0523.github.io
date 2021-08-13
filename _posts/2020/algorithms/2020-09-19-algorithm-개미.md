@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 10158번. 개미"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
-meta_keywords: 알고리즘,백준,파이썬,10158번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-19 18:09:43 -0400
 last_modified_at: 2020-09-19T18:09:43+08:00
 ---

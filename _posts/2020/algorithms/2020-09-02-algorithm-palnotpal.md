@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 15927번. 회문은 회문아니야!!"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ String Gold5
-meta_keywords: 알고리즘,백준,파이썬,15927번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-02 00:28:36 -0400
 last_modified_at: 2020-09-02T00:28:36+08:00
 ---

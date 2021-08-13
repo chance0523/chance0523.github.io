@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1439번. 뒤집기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Silver5
-meta_keywords: 알고리즘,백준,파이썬,1439번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-07 22:39:25 -0400
 last_modified_at: 2020-09-07T22:39:25+08:00
 ---

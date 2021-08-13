@@ -1,12 +1,12 @@
 ---
 title: '[Python] BOJ 2749번. 피보나치 수 3'
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Gold2]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-09 20:49:17 -0400

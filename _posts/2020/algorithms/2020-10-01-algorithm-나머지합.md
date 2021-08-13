@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 10986번. 나머지합"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ prefixsum Gold4
-meta_keywords: 알고리즘,백준,파이썬,10986번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-10-01 01:19:06 -0400
 last_modified_at: 2020-10-01T01:19:06+08:00
 ---

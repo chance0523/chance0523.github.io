@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 10953번. A+B - 6"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Bronze
-meta_keywords: 알고리즘,백준,파이썬,10953번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-07-19 22:28:04 -0400
 last_modified_at: 2020-07-19T22:28:04+08:00
 ---

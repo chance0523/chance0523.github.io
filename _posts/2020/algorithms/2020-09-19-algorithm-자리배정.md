@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 10157번. 자리배정"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Silver5
-meta_keywords: 알고리즘,백준,파이썬,10157번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-19 13:25:05 -0400
 last_modified_at: 2020-09-19T13:25:05+08:00
 ---

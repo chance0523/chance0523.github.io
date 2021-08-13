@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2417번. 정수 제곱근"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Silver5
-meta_keywords: 알고리즘,백준,파이썬,2417번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-08-18 19:44:22 -0400
 last_modified_at: 2020-08-18T19:44:22+08:00
 ---

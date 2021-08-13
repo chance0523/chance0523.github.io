@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 15922번. 아우으 우아으이야!!"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ sort Gold5
-meta_keywords: 알고리즘,백준,파이썬,15922번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-30 19:17:34 -0400
 last_modified_at: 2020-12-30T19:17:34+08:00
 ---

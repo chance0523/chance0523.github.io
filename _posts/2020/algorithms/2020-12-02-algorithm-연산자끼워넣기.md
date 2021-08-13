@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 14888번. 연산자 끼워넣기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ backtracking Silver1
-meta_keywords: 알고리즘,백준,파이썬,14888번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-02 01:52:16 -0400
 last_modified_at: 2020-12-02T01:52:16+08:00
 ---

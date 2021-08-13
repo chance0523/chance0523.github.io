@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 2812번. 크게 만들기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ greedy Gold5
-meta_keywords: 알고리즘,백준,파이썬,2812번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-25 12:47:46 -0400
 last_modified_at: 2020-09-25T12:47:46+08:00
 ---

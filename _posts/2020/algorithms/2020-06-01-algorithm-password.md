@@ -1,12 +1,12 @@
 ---
 title: "[Python] BOJ 17219번. 비밀번호 찾기"
-excerpt: ''
+excerpt: '알고리즘'
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, BOJ, Python, Implement, Silver4]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-06-01 20:52:55 -0400

@@ -4,9 +4,9 @@ excerpt: ''
 comments: true
 
 categories:
-    - Algorithms
+    - Algorithm
 tags:
-    - [Algorithms, Programmers, Python, bruteforce]
+    - [알고리즘,백준,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-13 19:40:00 -0400

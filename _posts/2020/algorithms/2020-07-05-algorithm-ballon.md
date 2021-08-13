@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 11509번. 풍선 맞추기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ greedy Silver1
-meta_keywords: 알고리즘,백준,파이썬,11509번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-07-05 00:59:13 -0400
 last_modified_at: 2020-07-05T00:59:13+08:00
 ---

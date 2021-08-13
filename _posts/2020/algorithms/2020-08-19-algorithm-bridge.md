@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1010번. 다리놓기"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ DP Silver5
-meta_keywords: 알고리즘,백준,파이썬,1010번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-08-19 08:04:04 -0400
 last_modified_at: 2020-08-19T08:04:04+08:00
 ---

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 14646번. 욱제는 결정장애야!!"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ implement Silver4
-meta_keywords: 알고리즘,백준,파이썬,14646번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2021-01-01 23:32:40 -0400
 last_modified_at: 2021-01-01T23:32:40+08:00
 ---

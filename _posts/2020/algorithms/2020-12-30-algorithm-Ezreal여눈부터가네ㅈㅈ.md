@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 20500번. Ezreal 여눈부터 가네 ㅈㅈ"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ math Gold5
-meta_keywords: 알고리즘,백준,파이썬,20500번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-12-30 23:12:54 -0400
 last_modified_at: 2020-12-30T23:12:54+08:00
 ---

@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 11719번. 그대로 출력하기 2"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Bronze
-meta_keywords: 알고리즘,백준,파이썬,11719번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-06-09 20:01:59 -0400
 last_modified_at: 2020-06-09T20:01:59+08:00
 ---

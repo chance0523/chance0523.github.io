@@ -1,13 +1,14 @@
 ---
 title: "[Python] BOJ 1089번. 엘리베이터"
-layout: single
-author_profile: true
-read_time: true
+excerpt: '알고리즘'
 comments: true
-share: true
-related: true
-categories: Algorithm BOJ Implement Gold5
-meta_keywords: 알고리즘,백준,파이썬,1089번
+
+categories:
+    - Algorithm
+tags:
+    - [알고리즘,백준,파이썬]
+toc: true
+toc_sticky: true
 date: 2020-09-14 00:35:30 -0400
 last_modified_at: 2020-09-14T00:35:30+08:00
 ---
