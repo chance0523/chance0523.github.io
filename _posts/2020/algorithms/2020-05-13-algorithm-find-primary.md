@@ -1,12 +1,12 @@
 ---
-title: '[Python] programmers 소수 찾기'
+title: '[Python] Programmers. 소수 찾기'
 excerpt: ''
 comments: true
 
 categories:
     - Algorithm
 tags:
-    - [알고리즘,백준,파이썬]
+    - [알고리즘,프로그래머스,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-13 19:40:00 -0400

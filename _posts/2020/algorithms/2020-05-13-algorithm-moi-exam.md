@@ -1,12 +1,12 @@
 ---
-title: '[Python] programmers  모의고사'
+title: '[Python] Programmers. 모의고사'
 excerpt: ''
 comments: true
 
 categories:
     - Algorithm
 tags:
-    - [알고리즘,백준,파이썬]
+    - [알고리즘,프로그래머스,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-13 18:50:00 -0400

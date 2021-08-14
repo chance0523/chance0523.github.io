@@ -1,12 +1,12 @@
 ---
-title: '[Python] programmers 숫자 야구'
+title: '[Python] Programmers. 숫자 야구'
 excerpt: ''
 comments: true
 
 categories:
     - Algorithm
 tags:
-    - [알고리즘,백준,파이썬]
+    - [알고리즘,프로그래머스,파이썬]
 toc: true
 toc_sticky: true
 date: 2020-05-13 20:18:00 -0400
