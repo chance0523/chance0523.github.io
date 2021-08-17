@@ -8,7 +8,7 @@ type: about
   - (15.03-20.08) 건국대학교 전기전자공학부 졸업
   - (11.03-14.02) 배재고등학교 졸업
 - 경력/활동
-  - (21.01-Current)[NHN COMMERCE](https://nhn-commerce.com/) 재직
+  - (21.01-Current) [NHN COMMERCE](https://nhn-commerce.com/) 재직
   - (20.07-20.12) SSAFY(삼성 청년 SW 아카데미) 수료
 
 ### Profiles
