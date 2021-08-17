@@ -1,6 +1,6 @@
 ---
 title: '[Python] BOJ 15723번. n단 논법'
-# excerpt: '알고리즘'
+excerpt: '알고리즘'
 comments: true
 
 categories:
