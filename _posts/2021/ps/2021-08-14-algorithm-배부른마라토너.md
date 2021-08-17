@@ -1,5 +1,5 @@
 ---
-title: '[Python] BOJ 10546번. 배부른 마라토너'
+title: '[Python] BOJ 10546번. 배부른 마라토너'
 excerpt: '알고리즘'
 comments: true
 
