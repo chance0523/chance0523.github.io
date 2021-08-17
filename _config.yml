@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 아티초크의 조용한 작업공간
-subtitle:
+title: 찬스의 블로그
+subtitle: Version 3.0
 description:
-author: 아티초크
+author: 찬스
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://you4rin.github.io'
+url: 'https://chance0523.github.io'
 baseurl: '/'
 permalink: pretty
 
@@ -224,14 +224,15 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: https://github.com/chance0523
+  Instaram:
+  # Twitter: twitter
+  # Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://avatars3.githubusercontent.com/you4rin?s=460&u=5f07ac108384e9a63e14269828aaa7a27fa84647&v=4
+# avatar: https://avatars3.githubusercontent.com/chance0523?s=460&u=5f07ac108384e9a63e14269828aaa7a27fa84647&v=4
 
 
 # Table Of Contents in the Sidebar
@@ -379,7 +380,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: you4rin-disqus-com
+  shortname: chance0523-disqus-com
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -459,8 +460,12 @@ gitalk:
 # See: https://www.google.com/webmasters/
 #google_site_verification:
 
-# Google Analytics
-#google_analytics:
+# Analytics
+analytics:
+    provider: "google" # false (default), "google", "google-universal", "custom"
+    google:
+        tracking_id: "G-DFVMBQWZST"
+        anonymize_ip: # true, false (default)
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
