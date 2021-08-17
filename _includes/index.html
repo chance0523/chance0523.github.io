@@ -1,0 +1,15 @@
+{% assign posts = site.posts %}
+{% if site.paginate > 0 %}{% assign posts = paginator.posts %}{% endif %}
+
+<section id="posts" class="posts-expand">
+  {% for post in posts %}
+    {% assign is_index = true %}
+    {% include _macro/post.html %}
+  {% endfor %}
+</section>
+
+{% include _partials/pagination.html %}
+
+<section>
+  <img src = "https://avatars3.githubusercontent.com/you4rin?s=460&u=5f07ac108384e9a63e14269828aaa7a27fa84647&v=4" alt = "github chart">
+</section>
