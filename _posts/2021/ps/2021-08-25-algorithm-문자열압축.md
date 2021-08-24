@@ -33,7 +33,7 @@ def solution(s):
         return 1
         
     for i in range(1, len(s) // 2 + 1):
-        cnt = 1
+        cnt = 1 # 0이 아니라 1부터 (1a 같은 경우는 a와 동일!)
         cur = ''
         temp = s[:i]
         for j in range(i, len(s), i):
