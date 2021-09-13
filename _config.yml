@@ -59,6 +59,9 @@ defaults:
     values:
       layout: "post"
       comments: true
+      image: /assets/images/og_image.png
+      height: 400
+      width: 400
 
 # Atom feed
 feed:
