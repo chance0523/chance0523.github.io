@@ -16,7 +16,28 @@
 
   {% assign url = page.url | absolute_url %}
   {% assign og_title = page.title | default: site.title %}
-  <meta name="og:image" content="{{ site.url }}/images/og_image.png">
+  
+<!-- HTML Meta Tags -->
+<title>찬스의 블로그</title>
+<meta name="description" content="https://chance0523.github.io/">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://chance0523.github.io/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="찬스의 블로그">
+<meta property="og:description" content="https://chance0523.github.io/">
+<meta property="og:image" content="https://chance0523.github.io/assets/images/logo.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="chance0523.github.io">
+<meta property="twitter:url" content="https://chance0523.github.io/">
+<meta name="twitter:title" content="찬스의 블로그">
+<meta name="twitter:description" content="https://chance0523.github.io/">
+<meta name="twitter:image" content="https://chance0523.github.io/assets/images/logo.png">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
+      
   {% assign site_name = site.title %}
   {% assign language = page.language | default: site.language %}
   {% assign updated = page.updated %}
