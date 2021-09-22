@@ -20,6 +20,7 @@ last_modified_at: 2021-09-22T11:30:25+08:00
 
 ### 풀이 코드
 - 파이썬의 `split()`을 연습 할 수 있는 문제입니다.
+
 ```python
 # input
 The Curious Case of Benjamin Button
